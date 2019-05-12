@@ -3,7 +3,7 @@ HRIS Expresso/Cafe (Feasibility Study)
 
 ### Installation
 1. Clone or Download
-2. Import database (edgardos-catering.sql)
+2. Import database (expresso.sql)
 3. Edit application/config/database.php
 ```
 'hostname' => 'localhost',
